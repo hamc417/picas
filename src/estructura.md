@@ -1,0 +1,13 @@
+-src
+    -components
+        -Footer.js
+        -Navbar.jsx
+    -pages
+      -About
+      -Blog
+      -contacts
+      -home
+    -App.js
+    -App.css
+    -index.js 
+    -index.css

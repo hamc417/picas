@@ -1,0 +1,43 @@
+/* styles.css */
+:root{
+  --fuenteHeading: 'PT Sans', Sans-serif;
+  --fuenteParrafos: 'Open Sans', Sans-serif;
+
+  --primario: #AAE3E2;
+  --claro: #e1e1e1;
+  --blanco: #444444;
+  --negro: #111111;
+}
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: var(--fuenteParrafos);
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+/*Globales*/
+
+.contenedor {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+  
+  /* Contact form styles */
+
+  
