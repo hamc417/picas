@@ -1,0 +1,9 @@
+/* Card.css */
+.card-hover:hover .card-overlay {
+    opacity: 0.5; /* Cambiamos la opacidad al hacer hover */
+  }
+  
+  .card-container {
+    cursor: pointer;
+  }
+  
